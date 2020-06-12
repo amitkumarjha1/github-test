@@ -1,4 +1,4 @@
 # github-test
 Playing with git hub
-##Planning
-##Goal
+#Planning
+#Goal
